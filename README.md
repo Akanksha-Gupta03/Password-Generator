@@ -10,5 +10,7 @@
 * Created a variable to store the value of password.
 * Created a console log to display the password in password generator.
 
+![Giphy ](asset/demo.gif)
+
 
   
